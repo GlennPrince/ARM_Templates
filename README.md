@@ -7,3 +7,5 @@ I needed some more complex examples of ARM templates for a few different things 
 * Storage Account
 * Monitoring Resources
 * EventGrid Domain
+
+I am also currently testing Bridgecrew scanning of code.
